@@ -26,4 +26,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-- [Acesse o projeto finalizado, online](https://walderwilliam.github.io/Jogo_da_advinhação/)
+- [Acesse o projeto finalizado, online](https://walderwilliam.github.io/Jogo-da-advinha-o/)
